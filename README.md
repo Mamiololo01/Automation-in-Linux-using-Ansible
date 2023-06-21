@@ -5,7 +5,12 @@ Ansible
 
 Sudo apt update && apt install ansible
 
+<img width="712" alt="Screenshot 2023-06-21 at 22 18 24" src="https://github.com/Mamiololo01/Automation-in-Linux-using-Ansible/assets/67044030/a277d7ef-42b9-42d5-a3a3-23797dea80bd">
+
+
 ansible —version
+
+<img width="833" alt="Screenshot 2023-06-21 at 22 19 27" src="https://github.com/Mamiololo01/Automation-in-Linux-using-Ansible/assets/67044030/129ae59c-244a-4e51-bae1-c9ff35fd579f">
 
 Prerequisites
 
